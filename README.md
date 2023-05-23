@@ -1,1 +1,1 @@
-Esempio di tabella
+Esempio di blog
